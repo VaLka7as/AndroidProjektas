@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projektas</string>
+    <string name="app_title">Mano naujas projektas</string>
+    <string name="login_username">Vardas:</string>
+    <string name="login_password">Slaptažodis:</string>
+    <string name="login_login_btn">Prisijungti</string>
+    <string name="login_register_btn">Registruotis</string>
+    <string name="login_invalid_credentials_message">Netinkamas vardas arba slaptažodis.</string>
+</resources>
